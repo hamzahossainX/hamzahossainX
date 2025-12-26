@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://e7.pngegg.com/pngimages/685/882/png-clipart-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzahossainx&label=Profile%20views&color=0e75b6&style=flat" alt="hamzahossainx" /> </p>
+
 
 - 📫 How to reach me **hamzahossain3842@gmail.com**
 
