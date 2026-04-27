@@ -121,9 +121,9 @@ const ismail = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahossainX&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="52%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=percentile" width="52%"/>
 </div>
 
 <br/>
