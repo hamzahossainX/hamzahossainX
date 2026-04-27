@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ismail%20Hossen&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
 
 <br/>
 
@@ -121,7 +121,9 @@ const ismail = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzahossainX&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" width="92%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="52%"/>
 </div>
 
 <br/>
