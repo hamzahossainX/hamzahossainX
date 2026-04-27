@@ -32,11 +32,11 @@
 
 | **Category** | **Technologies** |
 |:---:|:---:|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,js" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,firebase" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" /> |
 | **CMS & E-commerce** | <img src="https://skillicons.dev/icons?i=wordpress" /> &nbsp; <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" height="40"/> |
-| **Tools & IDE** | <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" /> |
+| **Tools & IDE** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
 </div>
 
@@ -44,22 +44,7 @@
 
 ---
 
-### <div align="center">📊 GitHub Stats</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahossainX&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahossainX&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
-
-<br/>
 
 ---
 
