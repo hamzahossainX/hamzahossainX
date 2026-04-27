@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Ismail+Hossen&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=CS+%26+Engineering+Student&amp;descAlignY=60&amp;descSize=18&amp;descColor=a78bfa&amp;animation=fadeIn" width="100%"/>
+
 
 <br/>
 
@@ -138,4 +138,3 @@ const ismail = {
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%"/>
