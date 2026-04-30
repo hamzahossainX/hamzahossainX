@@ -30,7 +30,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```typescript
 const ismail = {
@@ -47,7 +47,7 @@ const ismail = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ const ismail = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%"/>
@@ -104,7 +104,7 @@ const ismail = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzahossainX&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
@@ -114,7 +114,7 @@ const ismail = {
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahossainX&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
