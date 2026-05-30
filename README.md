@@ -89,8 +89,7 @@ const ismail = {
 
 ##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%"/>
  
 </div>
 
