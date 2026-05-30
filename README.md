@@ -91,13 +91,12 @@ const ismail = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahossainX&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+ 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahossainX&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="42%"/>
 </div>
 
 <br/>
@@ -117,9 +116,7 @@ const ismail = {
 ##  GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahossainX&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzahossainX&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=percentile" width="52%"/>
+ 
 </div>
 
 <br/>
