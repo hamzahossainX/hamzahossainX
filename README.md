@@ -34,8 +34,7 @@
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-<br/>
 
-**Let's build something great together. Feel free to reach out! 🚀**
+
 
 </div>
